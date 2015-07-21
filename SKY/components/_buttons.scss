@@ -1,0 +1,9 @@
+.btn-primary{
+	background-color:$primary-color;
+}
+
+@media and (max-width:767px){
+	.btn{
+		width:100%;
+	}
+}
